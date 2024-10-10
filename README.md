@@ -33,3 +33,5 @@ Run `(asdf:test-system "cl-quil/match")`.
 Iten, R., Moyard, R., Metger, T., Sutter, D. and Woerner, S., 2020.
 Exact and practical pattern matching for quantum circuit optimization.
 [`arXiv:1909.05270`](https://arxiv.org/abs/1909.05270)
+
+This project was created during an internship at HRL Laboratories.
